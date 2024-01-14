@@ -5,6 +5,7 @@ Overview:
 This repository contains the code for two distinct tasks as part of a Java Development Internship. 
 
 The tasks are as follows:
+
 Task_2:Number Guessing Game:
 
 A Java Swing-based GUI application where the user attempts to guess a randomly generated number.
