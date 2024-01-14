@@ -8,7 +8,7 @@ public class ATMMain {
     protected static final Map<String, String> transactionHistory = new HashMap<>();
 
     static {
-        // Sample user credentials and initial account balances (replace with your own)
+        // Sample user credentials and initial account balances
 
         userCredentials.put("Vamshi", "1234");   //1
 
