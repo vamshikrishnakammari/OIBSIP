@@ -19,7 +19,6 @@ Users can log in with a user ID and PIN, perform transactions such as viewing tr
 The system maintains user credentials, account balances, and transaction history using HashMaps.
 
 
-Technologies and Methodologies Used:
 Number Guessing Game:
 
 Java Swing:
